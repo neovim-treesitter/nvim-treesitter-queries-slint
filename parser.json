@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/slint-ui/tree-sitter-slint",
-  "semver": false,
-  "parser_version": "4d7ad0617c30f865f051bbac04a9826bea29f987",
   "location": null,
-  "lang": "slint"
+  "semver": false,
+  "url": "https://github.com/slint-ui/tree-sitter-slint",
+  "lang": "slint",
+  "parser_version": "4d7ad0617c30f865f051bbac04a9826bea29f987"
 }
